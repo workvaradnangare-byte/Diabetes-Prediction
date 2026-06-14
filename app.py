@@ -84,7 +84,8 @@ for further medical evaluation.
 
     return render_template("home.html", msg=msg)
 
-
+"""
 if __name__ == "__main__":
     app.run(debug=True)
+    """
 
